@@ -1,2 +1,2 @@
-# Basic_WordPress_Theme
-Basic WordPress Blog Theme 
+# Simple_WordPress_Theme
+Simple WordPress Blog Theme 
